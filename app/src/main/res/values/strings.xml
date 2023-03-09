@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WWleadsTest</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="fetch_error">Data fetch error</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="easy_level_text">Easy Level has been set</string>
+    <string name="medium_level_text">Medium Level has been set</string>
+    <string name="hard_level_text">Hard Level has been set</string>
+    <string name="increase_click_power_text">Increase your click power</string>
+    <string name="shop_string_text">Shop Screen</string>
+    <string name="current_click_power_text">Current click power:</string>
+    <string name="current_click_power_text_count">1</string>
+    <string name="reset_atk_text">Reset Atk</string>
+    <string name="game_screen_text">Game Screen</string>
+    <string name="click_text">Click</string>
+    <string name="retry_text">Retry</string>
+    <string name="loose_message">You Loose!</string>
+    <string name="maxed_atk_text">You have maxed atk</string>
+</resources>

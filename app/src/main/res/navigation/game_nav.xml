@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/game_nav"
+    app:startDestination="@id/gameFragment">
+
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.example.wwleadstest.GameFragment"
+        android:label="fragment_game"
+        tools:layout="@layout/fragment_game" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.wwleadstest.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/shopFragment"
+        android:name="com.example.wwleadstest.ShopFragment"
+        android:label="fragment_shop"
+        tools:layout="@layout/fragment_shop" />
+</navigation>
